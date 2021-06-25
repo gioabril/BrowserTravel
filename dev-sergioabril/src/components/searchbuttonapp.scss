@@ -1,0 +1,15 @@
+@import '../sass/variables';
+
+.container__searchbutton{
+    width: 86px;
+    height: 60px;
+    border:solid 6px $color-blanco;
+    border-radius: 10px;
+    background-color: $color-primary;
+    margin: 0 auto;
+    cursor: pointer;
+    box-shadow: 0 3px 4px rgba($color: #000000, $alpha: .3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

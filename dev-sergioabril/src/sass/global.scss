@@ -1,0 +1,36 @@
+@import 'variables';
+@import 'mixins';
+
+h2{
+    font-size: 18pt;
+    margin:0px;
+    padding:0px;
+}
+
+
+//  Ver elementos en dev
+.bdred{
+    border:solid blue!important;
+
+}
+
+// Presonalización de los input
+input[type="date"]::-webkit-calendar-picker-indicator {
+    background: none;
+    position: absolute;
+    width: 100%;
+    left: -10px;
+    top: 0px;
+}
+input[type="date"]{
+    width: 100%;
+}
+.MuiFormLabel-root.Mui-focused{
+    color: $color-primary!important;
+}
+.MuiInput-underline:before {
+content: none!important;
+}
+.MuiInput-underline:after {
+content: none!important;
+}

@@ -1,0 +1,30 @@
+.container__headerapp{
+    background: white;
+    min-height: 58px;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    .headerapp__contlogo{
+        padding: 0px;
+        margin-left: auto;
+        img{
+            height:40px;
+        }
+    }
+}
+
+.container__comp--menuapp{
+    display: flex;
+}
+.container__comp--iconos{
+    display: flex;
+    margin-left: auto;
+    justify-content: center;
+    align-content: center;
+    justify-items: center;
+    align-items: center;
+    margin-right: 10px;
+}
+.comp__iconos{
+    margin: 0px 4px!important;
+}

@@ -1,0 +1,33 @@
+.container__list{
+    width: 350px;
+}
+.container__drawer{
+    display: flex;
+    margin-right: auto;
+}
+.icon__menu{
+    img{
+        height: 14px;
+        padding: 5px;
+    }
+}
+.text__social{
+    font-size: 18px!important;
+}
+.container__general--drawer{
+    height: 100%;
+    position: relative;
+}
+.container__social{
+    position: absolute;
+    bottom: 0px;
+    h2{
+        padding-left: 10px;
+        margin: 10px;
+    }
+}
+.btnapp__back{
+    margin: 15px 10px;
+    background: none;
+    border: none;
+}

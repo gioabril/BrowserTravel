@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d9dda878.chunk.css",
+    "main.js": "/static/js/main.ab48c6a5.chunk.js",
+    "main.js.map": "/static/js/main.ab48c6a5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.927d368e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.927d368e.js.map",
+    "static/js/2.bc0f4d93.chunk.js": "/static/js/2.bc0f4d93.chunk.js",
+    "static/js/2.bc0f4d93.chunk.js.map": "/static/js/2.bc0f4d93.chunk.js.map",
+    "static/js/3.836ff140.chunk.js": "/static/js/3.836ff140.chunk.js",
+    "static/js/3.836ff140.chunk.js.map": "/static/js/3.836ff140.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d9dda878.chunk.css.map": "/static/css/main.d9dda878.chunk.css.map",
+    "static/js/2.bc0f4d93.chunk.js.LICENSE.txt": "/static/js/2.bc0f4d93.chunk.js.LICENSE.txt",
+    "static/media/Arrow-back.2fafefd1.svg": "/static/media/Arrow-back.2fafefd1.svg",
+    "static/media/Calendar-PickUp.ef7a4140.svg": "/static/media/Calendar-PickUp.ef7a4140.svg",
+    "static/media/Calendar-Return.5a5fa6c0.svg": "/static/media/Calendar-Return.5a5fa6c0.svg",
+    "static/media/Car-PickUp.ae281675.svg": "/static/media/Car-PickUp.ae281675.svg",
+    "static/media/Idioma.0b1f2683.svg": "/static/media/Idioma.0b1f2683.svg",
+    "static/media/Moneda.d6c48954.svg": "/static/media/Moneda.d6c48954.svg",
+    "static/media/global.scss": "/static/media/Poppins-ThinItalic.32743a4d.ttf",
+    "static/media/Promo.4ca7ae64.png": "/static/media/Promo.4ca7ae64.png",
+    "static/media/Social-Facebook.466185b4.svg": "/static/media/Social-Facebook.466185b4.svg",
+    "static/media/Social-Google.1d1d3787.svg": "/static/media/Social-Google.1d1d3787.svg",
+    "static/media/Social-Instagram.ed8c5c14.svg": "/static/media/Social-Instagram.ed8c5c14.svg",
+    "static/media/Social-Twitter.c54ec68b.svg": "/static/media/Social-Twitter.c54ec68b.svg",
+    "static/media/App.scss": "/static/media/back-02.08de5567.png",
+    "static/media/icon-menu.258ffdd6.svg": "/static/media/icon-menu.258ffdd6.svg",
+    "static/media/logo.e24399b1.svg": "/static/media/logo.e24399b1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.927d368e.js",
+    "static/js/2.bc0f4d93.chunk.js",
+    "static/css/main.d9dda878.chunk.css",
+    "static/js/main.ab48c6a5.chunk.js"
+  ]
+}

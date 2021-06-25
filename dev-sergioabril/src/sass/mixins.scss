@@ -1,0 +1,55 @@
+@import 'fonts';
+@import 'variables';
+
+// ESTILOS DE CONTENEDORES
+
+.container__rounded__shadown{
+    border-radius: 10px;
+    border: solid 1.4px $color-gray!important;
+    box-shadow: 0px 3px 4px $color-shadown;
+}
+
+// TIPOS DE LETRAS
+
+.font__r{
+    font-family: 'Poppins-r';
+}
+
+.font__m{
+    font-family: 'Poppins-m';
+    font-weight: 100;
+}
+
+.font__sb{
+    font-family: 'Poppins-sb';
+}
+
+.font__b{
+    font-family: 'Poppins-b';
+}
+
+
+.back__white{
+    background: $color-blanco;
+}
+
+// Definir tamaños de textos
+.tittle__primary{
+    font-size: 1.2em;
+}
+.font__14{
+    font-size: 14px;
+}
+
+// Define colores para textos
+.textcolor__white{
+    color: $color-blanco;
+}
+
+.textcolor__gray--b{
+    color: $color-gray-b;
+}
+// Centra el contenedor
+.margin__auto{
+    margin: 0 auto!important;
+}
